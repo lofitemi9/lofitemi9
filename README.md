@@ -6,7 +6,7 @@
 - 💡 Interests: Full-Stack Development, Data Analysis, DevOps, Startups & Product Development
 - 💼 $75K+ USD in e-commerce revenue as a freelance developer
 - 🌐 Portfolio: [temishokunbi.tech](https://temishokunbi.tech)
-- 🏋️ Fun: gym daily, volleyball, table tennis, football, photography, streetwear
+- 🏋️ Fun: gym daily, volleyball, table tennis, football, photography, model
 - 📫 temiloluwashokubi@gmail.com
 
 ---
