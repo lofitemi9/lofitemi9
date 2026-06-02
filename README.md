@@ -56,5 +56,5 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lofitemi9&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=lofitemi9&theme=tokyonight)
