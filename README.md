@@ -108,7 +108,16 @@ Web app connecting to two live NASA APIs — browse the Astronomy Picture of the
 `JavaScript` `NASA APOD API` `NASA Image API` `HTML5` `CSS3`
 
 [![Live](https://img.shields.io/badge/Live%20Demo-4f8ef7?style=flat-square&logo=vercel&logoColor=white)](https://nasa-apod-12re.vercel.app/)
-[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/lofitemi9)
+[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Tyyy09/NasaAPOD)
+
+---
+
+#### 🗂️ GitHub Auto Sort
+CLI tool that sorts local project folders into GitHub repositories — interactively. Supports dry-run mode to preview all actions before execution, recursive subfolder walking, auto-creates repos if they don't exist, and pushes to existing ones if they do.
+
+`Python` `GitHub API` `CLI`
+
+[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/lofitemi9/Github-Auto-Sort)
 
 ---
 
