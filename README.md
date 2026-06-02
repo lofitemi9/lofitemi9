@@ -4,7 +4,6 @@
 - 🎓 Computer Programming @ Georgian College, Barrie ON — Dean's List (CGPA 3.40)
 - 🚀 Venture Development Co-op @ Henry Bernick Entrepreneurship Centre (HBEC)
 - 💡 Interests: Full-Stack Development, Data Analysis, DevOps, Startups & Product Development
-- 🏆 2nd Place — AutoHack 2.0 × Honda of Canada × OVIN
 - 💼 $75K+ USD in e-commerce revenue as a freelance developer
 - 🌐 Portfolio: [temishokunbi.tech](https://temishokunbi.tech)
 - 🏋️ Fun: gym daily, volleyball, table tennis, football, photography, streetwear
@@ -17,6 +16,15 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-temishokunbi.tech-4f8ef7?style=for-the-badge&logo=firefox&logoColor=white)](https://temishokunbi.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/temi-shokunbi-a20a3a365/)
 [![GitHub](https://img.shields.io/badge/GitHub-lofitemi9-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lofitemi9)
+
+---
+
+### 🏆 Highlights
+
+> 🥈 **2nd Place — AutoHack 2.0 Hackathon**
+> Georgian College × Honda of Canada Manufacturing × Ontario Vehicle Innovation Network
+>
+> Competed as part of **Team Ctrl Alt Elite** to build a full-stack IoT predictive maintenance platform for Honda's manufacturing floor — using Arduino sensors, PostgreSQL, a gradient-boosted ML classifier, Groq AI root cause analysis, and a Flask dashboard. Presented results to industry stakeholders from Honda and OVIN.
 
 ---
 
@@ -82,17 +90,6 @@
 
 ### 🏗️ Projects
 
-#### 🥈 Honda Equipment Monitor — AutoHack 2.0 · 2nd Place
-> Georgian College × Honda of Canada Mfg. × OVIN · Team Ctrl Alt Elite
-
-Full-stack IoT predictive maintenance platform. Arduino sensors stream live temperature & vibration data into PostgreSQL every second. A **gradient-boosted classifier** detects anomalies and predicts failures before they happen. When a risk is flagged, a **Groq AI 5-Why engine** diagnoses the root cause and estimates time-to-failure — all surfaced on a Flask dashboard in real time.
-
-`C++ / Arduino` `Python` `PostgreSQL` `scikit-learn` `Groq API` `Flask`
-
-[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/lofitemi9/Hackathon)
-
----
-
 #### 🎵 Spotify Statistics Platform — RISE Innov8 Submission
 Full-stack data engineering system integrating the Spotify API. Built ETL workflows extracting, enriching (MusicBrainz), transforming, and loading listening data into ClickHouse and MS SQL Server. Cloud deployed via Railway.
 
@@ -109,7 +106,7 @@ Web app connecting to two live NASA APIs — browse the Astronomy Picture of the
 `JavaScript` `NASA APOD API` `NASA Image API` `HTML5` `CSS3`
 
 [![Live](https://img.shields.io/badge/Live%20Demo-4f8ef7?style=flat-square&logo=vercel&logoColor=white)](https://nasa-apod-12re.vercel.app/)
-[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/0n1xx/SpotifyStatistics)
+[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/lofitemi9)
 
 ---
 
@@ -137,7 +134,6 @@ Built and launched two production e-commerce websites end-to-end. PHP + MySQL ba
 - 🤖 Robotics Club
 - 📸 Photography Club
 - 💻 Tech Club
-- 🏠 Residence Advisor @ Georgian College
 - ⛪ Church Volunteer & Community Service
 
 ---
