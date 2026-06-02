@@ -2,12 +2,12 @@
 
 ### 🚀 About Me
 - 🎓 Computer Programming @ Georgian College, Barrie ON — Dean's List (CGPA 3.40)
-- 💡 Interests: Data Analysis, DevOps, Cloud Engineering, Software Engineering
-- 💬 Working On: Seeking Summer 2026 co-op in web development & systems work
+- 🚀 Venture Development Co-op @ Henry Bernick Entrepreneurship Centre (HBEC)
+- 💡 Interests: Full-Stack Development, Data Analysis, DevOps, Startups & Product Development
 - 🏆 2nd Place — AutoHack 2.0 × Honda of Canada × OVIN
 - 💼 $75K+ USD in e-commerce revenue as a freelance developer
 - 🌐 Portfolio: [temishokunbi.tech](https://temishokunbi.tech)
-- 🏋️ Fun: gym daily, volleyball, table tennis, football, photography
+- 🏋️ Fun: gym daily, volleyball, table tennis, football, photography, streetwear
 - 📫 temiloluwashokubi@gmail.com
 
 ---
@@ -98,7 +98,8 @@ Full-stack data engineering system integrating the Spotify API. Built ETL workfl
 
 `Python` `Spotify API` `ClickHouse` `MS SQL Server` `Railway` `MusicBrainz`
 
-[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/lofitemi9)
+[![Live](https://img.shields.io/badge/Live%20Demo-3DFF93?style=flat-square&logo=railway&logoColor=black)](https://spotifystatistics-production.up.railway.app/)
+[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/0n1xx/SpotifyStatistics)
 
 ---
 
@@ -108,7 +109,7 @@ Web app connecting to two live NASA APIs — browse the Astronomy Picture of the
 `JavaScript` `NASA APOD API` `NASA Image API` `HTML5` `CSS3`
 
 [![Live](https://img.shields.io/badge/Live%20Demo-4f8ef7?style=flat-square&logo=vercel&logoColor=white)](https://nasa-apod-12re.vercel.app/)
-[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/lofitemi9)
+[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/0n1xx/SpotifyStatistics)
 
 ---
 
@@ -123,8 +124,10 @@ Built and launched two production e-commerce websites end-to-end. PHP + MySQL ba
 
 | Period | Role | Where |
 |--------|------|--------|
-| Sep 2025 – Apr 2026 | Resident Advisor | Georgian College, Barrie ON |
-| Sep 2024 – Present | Founder & Web Developer | Freelance |
+| Apr 2026 – Present | Venture Development Co-op Student | Henry Bernick Entrepreneurship Centre · Hybrid |
+| Apr 2026 – Present | Residence Services Representative | Residence & Conference Centre · On-site |
+| Sep 2025 – Apr 2026 | Resident Advisor | Campus Living Centres · On-site |
+| Sep 2022 – Present | Freelance Web Developer | Self-Employed · Remote |
 | Mar 2022 – Jul 2024 | President — Finance & Automation Club | Chrisland High School |
 | Jan 2023 – Jul 2024 | Head Librarian | Chrisland High School |
 
@@ -136,6 +139,12 @@ Built and launched two production e-commerce websites end-to-end. PHP + MySQL ba
 - 💻 Tech Club
 - 🏠 Residence Advisor @ Georgian College
 - ⛪ Church Volunteer & Community Service
+
+---
+
+### 📜 Certifications
+- 🌐 **CCNA: Introduction to Networks** — Georgian College *(Sep 2025)*
+- 🔌 **Introduction to IoT and Digital Transformation** — Georgian College *(Sep 2025)*
 
 ---
 
