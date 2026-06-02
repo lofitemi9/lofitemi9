@@ -1,19 +1,60 @@
-<h1 align="center">Hi 👋, I'm Temi</h1>
-<h3 align="center">I’m a Computer Programming student with hands-on experience building automation systems, IoT projects, and full-stack applications through hackathons and personal projects. I’ve worked with Python, Linux, Docker, Git, SQL, and networking tools to design reliable systems, analyze data, and automate workflows. I’ve been passionate about technology since my early teens — solving real-world problems with code, infrastructure, and hardware has always driven me. From sensor-based monitoring systems to web applications and network labs, I enjoy building practical solutions end-to-end. Currently studying Computer Programming in Ontario, Canada while pursuing CCNA, strengthening my skills in cloud systems, infrastructure automation, and scalable architecture as I work toward a career in DevOps.</h3>
+## Hi there, I'm Temi 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lofitemi9&label=Profile%20views&color=0e75b6&style=flat" alt="lofitemi9" /> </p>
+### 🚀 About Me
+- 🎓 Computer Programming @ Georgian College, Barrie ON — Dean's List (CGPA 3.40)
+- 💡 Interests: Data Analysis, DevOps, Entrepreneurship, Software Engineering
+- 💬 Working On: Building toward a data analyst career as a launchpad for entrepreneurial goals
+- 🏋️ Fun: gym daily, volleyball, table tennis, football, photography, streetwear
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/temi-shokunbi-a20a3a365/)
 
-- 👨‍💻 All of my projects are available at [temishokunbi.tech](temishokunbi.tech)
+---
 
-- 📫 How to reach me **temiloluwashokubi@gmail.com**
+### 🌐 Socials
+- [LinkedIn](https://www.linkedin.com/in/temi-shokunbi-a20a3a365/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/temi shokunbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="temi shokunbi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lofitemi9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lofitemi9" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+### 🧰 Tech Stack
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lofitemi9&show_icons=true&theme=dracula&locale=en&layout=compact" alt="lofitemi9" /></p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
+
+---
+
+### 🏗️ Projects
+
+- 🍕 **Pizza Order Form** — HTML/CSS web form with clean UI design
+- 🏥 **Medical Diagnosis App** — Python Tkinter GUI that fetches symptoms from an external API
+- ⚾ **Baseball Player Manager** — JavaFX + MySQL CRUD desktop app with full Eclipse setup
+- 📱 **Tip Calculator App** — Android application built in Java
+- 🤖 **AutoHack AI** — Team project: predictive maintenance system for manufacturing equipment failure
+- 🌐 **Amazon Delivery Website** — Managed and maintained a business website for a delivery service
+
+---
+
+### 🎯 Extracurriculars
+- 🤖 Robotics Club
+- 📸 Photography Club
+- 💻 Tech Club
+- 🏠 Residence Advisor @ Georgian College
+- ⛪ Church Volunteer & Community Service
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
