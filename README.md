@@ -108,7 +108,7 @@ A multi-tenant personal operating system with a real voice assistant. Wake word 
 `Next.js 16` `TypeScript` `Prisma` `PostgreSQL` `TensorFlow.js` `Silero VAD` `Deepgram` `ElevenLabs` `Claude` `Llama 3.3`
 
 [![GitHub](https://img.shields.io/badge/View%20on%20GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/lofitemi9/iron-protocol)
-[![Voice Demo](https://img.shields.io/badge/▶%2060s%20Voice%20Demo-E4405F?style=flat-square&logo=youtubemusic&logoColor=white)](https://github.com/lofitemi9/iron-protocol/blob/main/docs/media/voice-demo.mp4)
+[![Voice Demo](https://img.shields.io/badge/▶%2060s%20Voice%20Demo-E4405F?style=flat-square&logo=youtubemusic&logoColor=white)](https://lofitemi9.github.io/iron-protocol/media/voice-demo.mp4)
 
 ---
 
