@@ -126,6 +126,8 @@ A 15-page static learning site generated from Python, covering 13 sections and 3
 
 `Python` `Static Site Generation` `AWS` `Terraform` `HTML5` `CSS3` `JavaScript`
 
+[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/lofitemi9/cloud-engineering-lab)
+
 ---
 
 #### 🍽️ Taste of Lagos — Restaurant Website + POS Integration
@@ -150,7 +152,7 @@ Web app connecting to two live NASA APIs — browse the Astronomy Picture of the
 `JavaScript` `NASA APOD API` `NASA Image API` `HTML5` `CSS3`
 
 [![Live](https://img.shields.io/badge/Live%20Demo-4f8ef7?style=flat-square&logo=vercel&logoColor=white)](https://nasa-apod-12re.vercel.app/)
-[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Tyyy09/NasaAPOD)
+[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/lofitemi9/NasaAPOD)
 
 ---
 
