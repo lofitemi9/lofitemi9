@@ -117,6 +117,8 @@ Daily intelligence agent that sweeps policy and industry sources, filters result
 
 `Python` `GitHub Actions` `Twilio` `Resend` `YAML` `LLM Agents`
 
+[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/lofitemi9/opportunity-radar)
+
 ---
 
 #### ☁️ Cloud Engineering Lab — Self-Built Learning Platform
