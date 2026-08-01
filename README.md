@@ -139,13 +139,6 @@ Production site for a working restaurant, integrated with Clover POS so online o
 
 ---
 
-#### 🤖 Agentic Website Build Pipeline
-CLI-first, tiered agent architecture for generating production websites. Tier 1 execution agents scaffold and write; Tier 2 review agents audit output for correctness, accessibility and security before anything ships.
-
-`Python` `CLI` `LLM Orchestration` `Multi-Agent Systems`
-
----
-
 #### 🚀 NASA Space Explorer
 Web app connecting to two live NASA APIs — browse the Astronomy Picture of the Day back to 1995 and search 140,000+ images from the NASA Image Library.
 
