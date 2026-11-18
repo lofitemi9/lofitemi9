@@ -1,14 +1,16 @@
 ## Hi there, I'm Temi 👋
 
+**AI Developer · AI Agents, Automation & Research Workflows**
+
 ### 🚀 About Me
 - 🎓 Computer Programming @ Georgian College, Barrie ON — Dean's List (CGPA 3.40) · Graduating Dec 2026
 - 🚀 Venture Development Co-op @ Henry Bernick Entrepreneurship Centre (HBEC)
-- 🏢 Founder — **Shokunbi Web Solutions**, a web design & development studio in Barrie, ON
+- 🏢 Founder — **Shokunbi Web Studio**, a web design & development studio in Barrie, ON
 - 💡 Interests: Data Analysis, Cloud & DevOps, Full-Stack Development, Startups & Product Development
 - 💼 $75K+ USD in e-commerce revenue as a freelance developer
 - 🌐 Portfolio: [temishokunbi.tech](https://temishokunbi.tech)
 - 🏋️ Fun: gym daily, table tennis, football, photography, tennis
-- 📫 temiloluwashokubi@gmail.com
+- 📫 temiloluwashokunbi07@gmail.com · temiloluwashokubi@gmail.com
 
 ---
 
@@ -112,6 +114,16 @@ A multi-tenant personal operating system with a real voice assistant. Wake word 
 
 ---
 
+#### 🔥 Before the Smoke — NASA Space Apps Challenge 2026
+Wildfire early-warning student prototype for First Nations communities in Canada, built with **Team Smooth Engineers** (5 members) at the NASA Space Apps Challenge Toronto event (Nov 14–15, 2026) and pitched to a judging panel. Search any of 641 First Nations communities on a map coloured by fire risk; each community page shows today's risk, a 1-day to 2-week look-ahead, how confident the estimate is and why, warning signs, nearby wildfires and smoke, a built-in Q&A, and an "Ask for help" letter with official contacts to copy or print. Risk is a transparent 0–100 score from nine inputs, including Canada's Fire Weather Index and NASA FIRMS satellite heat detections, alongside NASA GIBS imagery and 42 years of NASA POWER daily weather records. My part: I added the Fire Weather Index to the score and recalibrated it, brought in the 42-year NASA POWER comparison and the 641 First Nations locations, built the community search and page, the Q&A, the "Ask for help" letter and the trend charts, and rewrote the pitch script and pitched the project as one of the team's presenters. A student prototype — not an official fire danger rating, and it does not speak for any First Nation.
+
+`TypeScript` `React` `Vite` `Tailwind CSS` `Node.js` `Express` `Leaflet` `Recharts` `NASA FIRMS` `NASA GIBS` `NASA POWER` `Railway`
+
+[![Live](https://img.shields.io/badge/Live%20Demo-3DFF93?style=flat-square&logo=railway&logoColor=black)](https://nasa-hackaton-2026-production.up.railway.app/)
+[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/0n1xx/nasa-hackaton-2026)
+
+---
+
 #### 🎵 Spotify Statistics Platform — RISE Innov8 Submission
 Full-stack data engineering system integrating the Spotify API. Built ETL workflows extracting, enriching (MusicBrainz), transforming, and loading listening data into ClickHouse and MS SQL Server. Cloud deployed via Railway.
 
@@ -188,7 +200,7 @@ Built and launched two production e-commerce websites end-to-end. PHP + MySQL ba
 |--------|------|--------|
 | Apr 2026 – Present | Venture Development Co-op Student | Henry Bernick Entrepreneurship Centre · Hybrid |
 | Apr 2026 – Present | Residence Services Representative | Residence & Conference Centre · On-site |
-| Sep 2022 – Present | Founder & Web Developer | Shokunbi Web Solutions · Barrie, ON |
+| Sep 2022 – Present | Founder & Web Developer | Shokunbi Web Studio · Barrie, ON |
 | Sep 2025 – Apr 2026 | Resident Advisor | Campus Living Centres · On-site |
 | Mar 2022 – Jul 2024 | President — Finance & Automation Club | Chrisland High School |
 | Jan 2023 – Jul 2024 | Head Librarian | Chrisland High School |
@@ -207,6 +219,8 @@ Built and launched two production e-commerce websites end-to-end. PHP + MySQL ba
 - 🌐 **CCNA: Introduction to Networks** — Georgian College *(Sep 2025)*
 - 🔌 **Introduction to IoT and Digital Transformation** — Georgian College *(Sep 2025)*
 - 🎖️ **Further Faster Business Training Program** — Henry Bernick Entrepreneurship Centre *(Jul 2026)*
+- ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)** — Microsoft *(Oct 2026)*
+- 🛰️ **Galactic Problem Solver** — NASA Space Apps Challenge, certificate of participation *(Nov 2026)*
 - ☁️ **AWS Certified Solutions Architect – Associate** — *in progress, exam booked*
 
 ---
